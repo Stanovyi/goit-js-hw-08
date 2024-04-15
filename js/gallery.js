@@ -94,7 +94,6 @@ function addModalWindow(e) {
     return;
   }
 
-  console.log(e.target);
   const instance = basicLightbox.create(`
     <div class="modal">
       <img
